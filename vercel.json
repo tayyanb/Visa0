@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/22b1907b1", "destination": "/22b1907b1/index.html" },
+    { "source": "/b2b00201", "destination": "/b2b00201/index.html" }
+  ]
+}
